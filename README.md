@@ -1,1 +1,1 @@
-# PDF_to_Word_List.py
+# PDF_to_Word_List
